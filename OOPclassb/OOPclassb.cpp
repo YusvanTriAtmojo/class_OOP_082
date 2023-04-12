@@ -32,7 +32,7 @@ private:
 	int sks;
 public:
 	void inputMK() {
-		cout << "Masukan kode matakuliah : ";
+		cout << "\n\nMasukan kode matakuliah : ";
 		cin >> kode;
 		cout << "Masukan Nama matakuliah : ";
 		cin >> namaMK;
